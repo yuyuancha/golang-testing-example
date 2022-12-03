@@ -4,6 +4,8 @@
 
 有關 `testing` 的相關操作練習。
 
+[詳細內容](https://mryuyuan.com/golang-testing/)
+
 ## 安裝 docker 環境及執行程式
 
 * clone GitHub repository
